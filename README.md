@@ -167,3 +167,36 @@ Then open the local URL shown by Vite in the terminal.
 ## Project Status
 
 This project represents the frontend stage of the e-commerce application and is prepared for the next stage, where the frontend will be connected to the existing REST API.
+
+## Demo Accounts
+
+The project includes local demo accounts for testing the customer and admin roles.
+
+- Customer account: see `src/data/users.js`
+- Admin account: see `src/data/users.js`
+
+No real passwords or secrets are included in the project.
+
+## Screenshots
+
+### Desktop - 1440px
+
+![Desktop Screenshot](./screenshots/desktop.png)
+
+### Tablet - 768px
+
+![Tablet Screenshot](./screenshots/tablet.png)
+
+### Mobile - 390px
+
+![Mobile Screenshot](./screenshots/mobile.png)
+
+## Live Preview
+
+https://ecommerce-frontend-stage4-8xkl9iit7-malik-51be.vercel.app
+
+## Test Results
+
+Manual test results are documented in:
+
+`RESULTS_TEST_TASK.md`
